@@ -3,7 +3,7 @@ dynamicProgrammingExamples
 
 These are some solutions to basic dynamic programming problems that I implemented in Python
 
-Subset Sum
+Subset Sum:
 The code randomly generates an input set and solves the Subset Sum Problem with integer bound W using dynamic programming. It prints out the dynamic programming matrix and outputs the weights of the particular objects that have been selected for inclusion in the maximum weight subset within the bound W. 
 
 Command:
