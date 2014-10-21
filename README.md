@@ -15,3 +15,11 @@ Uses dynamic programming to align two input strings using user provided match, m
 
 ###Command:
 ```python stringAlignment.py```
+
+###Maximum Contiguous Subsequence
+
+Uses dynamic programming to find out the maximum sum contiguous subsequence present on each diagonal of an input matrix. Prints out the maximum sum, the elements taking part in the sum and the segment that takes part in the sum.
+
+###Command:
+
+```python maxContigSumOnDiagonal.py```
